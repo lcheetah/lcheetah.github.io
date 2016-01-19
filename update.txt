@@ -1,1 +1,1 @@
-XXX&1.3&这里写点描述&http://192.168.1.100:8080/PersonalHomePage/new.apk
+XXX&1.2&这里写点描述&http://www.szbestman.com/Uploads/201512/5673722fd62d3.apk
